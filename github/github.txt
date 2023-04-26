@@ -2,4 +2,8 @@ hello
 m
 heloo edit from B 
 changes from A
+
 second change from A
+=======
+second change from B
+
